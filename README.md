@@ -1,8 +1,8 @@
 # Ex - 13 - MESSAGE AUTHENTICATION CODE(MAC)
 
 ```
-Name: Oswald Shilo
-Register No : 212223040139
+Name:Senthamil Selvan G
+Register No : 212222230139
 ```
 
 ## Aim:
@@ -96,6 +96,7 @@ int main() {
 
 ## OUTPUT:
 
+![Screenshot 2024-11-11 101600](https://github.com/user-attachments/assets/2e588780-4c6a-460e-84ef-72d65ddf13b7)
 
 ## RESULT:
 Hence, to implement a Message Authentication Code (MAC) using a cryptographic hash function ensures data integrity and authenticity for secure communications.
